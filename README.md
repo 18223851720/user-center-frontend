@@ -1,57 +1,22 @@
-# Ant Design Pro
+# 用户一站通前端
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
+本项目主要使用ant design pro框架开发
 
-## Environment Prepare
+运用阿里Ant Design 生态：
 
-Install `node_modules`:
+HTML + CSS + JavaScript 三件套
 
-```bash
-npm install
-```
+React 开发框架
 
-or
+Ant Design Pro 项目模板
 
-```bash
-yarn
-```
+Ant Design 端组件库
 
-## Provided Scripts
+Umi 开发框架
 
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
+Umi Request 请求库
 
-Scripts provided in `package.json`. It's safe to modify or add additional script:
+正向和反向代理
 
-### Start project
 
-```bash
-npm start
-```
 
-### Build project
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
-
-## More
-
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
